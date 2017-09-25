@@ -14,13 +14,5 @@
 			<coordinates>151.5922055314869,-32.99214501052449,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="place-toronto">
-		<name>Toronto2</name>
-		<description>Toronto is on the western edge of Lake Macquarie, NSW</description>
-		<styleUrl>#markerStyle</styleUrl>
-		<Point>
-			<coordinates>151.597102,-33.012388,0</coordinates>
-		</Point>
-	</Placemark>
 </Document>
 </kml>
