@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="markerStyle">
+		<IconStyle>
+			<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href></Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id="place-szylinga">
+		<name>Filia WSPL SP ZOZ przy ul. Szylinga 1</name>
+		<description><![CDATA[https://wspl.info.pl/]]></description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>16.900962, 52.406650,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
