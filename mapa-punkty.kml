@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="markerStyle">
+		<IconStyle>
+			<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href></Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id="place-lt-creek">
+		<name>LT Creek</name>
+		<description><![CDATA[http://www.example.com/]]></description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>151.5922055314869,-32.99214501052449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="place-toronto">
+		<name>Toronto</name>
+		<description>Toronto is on the western edge of Lake Macquarie, NSW</description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>151.597102,-33.012388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="place-blackalls-park">
+		<name>Blackalls Park</name>
+		<description>A lovely spot for watching the mullet jump</description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>151.591233,-32.998793,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
