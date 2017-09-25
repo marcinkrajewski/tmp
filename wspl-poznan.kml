@@ -21,6 +21,22 @@
 		<Point>
 			<coordinates>16.9241301,52.4127032,0</coordinates>
 		</Point>
+	</Placemark>	
+	<Placemark id="place-gluszyna">
+		<name>Filia GŁUSZYNA WSPL SP ZOZ</name>
+		<description><![CDATA[https://wspl.info.pl/]]></description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>16.9631604,52.3146358,0</coordinates>
+		</Point>
+	</Placemark>	
+	<Placemark id="place-wojska-polskiego">
+		<name>Filia WSPL SP ZOZ w CSWLąd</name>
+		<description><![CDATA[https://wspl.info.pl/]]></description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>16.8876021,52.4293025,0</coordinates>
+		</Point>
 	</Placemark>
 </Document>
 </kml>
