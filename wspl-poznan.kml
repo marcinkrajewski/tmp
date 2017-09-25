@@ -13,6 +13,14 @@
 		<Point>
 			<coordinates>16.900962, 52.406650,0</coordinates>
 		</Point>
+	</Placemark>	
+	<Placemark id="place-solna">
+		<name>Wojskowa Specjalistyczna Przychodnia Lekarska SP ZOZ</name>
+		<description><![CDATA[https://wspl.info.pl/siedziba-glowna/]]></description>
+		<styleUrl>#markerStyle</styleUrl>
+		<Point>
+			<coordinates>16.9241301,52.4127032,0</coordinates>
+		</Point>
 	</Placemark>
 </Document>
 </kml>
